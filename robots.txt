@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anzhelika-dance-tgn.ru/sitemap.xml
